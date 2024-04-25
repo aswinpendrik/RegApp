@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplikasi Ku</string>
+    <string name="login_toolbar">Login</string>
+    <string name="main_toolbar">Data Mahasiswa</string>
+    <string name="pesan_about">Aplikasi Kampusku merupakan aplikasi yang digunakan untuk pendataan mahasiswa.
+    User nantinya bisa menambah, update dan hapus data mahasiswa</string>
+    <string name="tv_info">Pengguna Baru?</string>
+    <string name="tv_name">Name</string>
+    <string name="til_id">ID</string>
+    <string name="til_name">Name</string>
+    <string name="til_gender">Gender</string>
+    <string name="til_tgl_lahir">Tgl Lahir (YYYY-MM-DD)</string>
+    <string name="til_Address">Address</string>
+    <string name="bt_clear">Clear</string>
+    <string name="bt_save">Save</string>
+    <string name="mi_about">about</string>
+    <string name="mi_logout">logout</string>
+    <string name="mi_exit">exit</string>
+    <string name="tv_title">Aplikasi Ku</string>
+</resources>
